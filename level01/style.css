@@ -1,0 +1,29 @@
+#box{
+    height: 100px;
+    background-color: blue;
+}
+
+/* .heading{
+    color: red;
+} */
+
+h1,h2,h3 {
+    color: orange;
+    text-align: center;
+    text-decoration: blue  dashed  underline;
+    text-transform: uppercase;
+}
+button{
+    background-color: green;
+    
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-transform: none;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    
+}
